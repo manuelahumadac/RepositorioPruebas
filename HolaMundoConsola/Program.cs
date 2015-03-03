@@ -9,8 +9,10 @@ namespace HolaMundoConsola
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Nuevo comentario");
+            Console.WriteLine("Nuevo comentario cambio en la linea");
+            Console.ReadLine();
             Console.WriteLine("Segunda Publicacion");
+            Console.WriteLine("Otra linea de codigo");
             Console.ReadLine();
         }
     }
