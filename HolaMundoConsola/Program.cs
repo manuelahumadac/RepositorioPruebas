@@ -10,6 +10,7 @@ namespace HolaMundoConsola
         static void Main(string[] args)
         {
             Console.WriteLine("Nuevo comentario");
+            Console.WriteLine("Segunda Publicacion");
             Console.ReadLine();
         }
     }
